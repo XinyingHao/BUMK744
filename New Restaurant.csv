@@ -1,0 +1,19 @@
+Cuisine,Price,Service,Distance,Respondent 1,Respondent 2,Respondent 3,Respondent 4,Respondent 5,Respondent 6,Respondent 7,Respondent 8,Respondent 9,Respondent 10
+Bar B Que,9,Counter,5,4,3,5,4,5,5,5,5,5,5
+Bar B Que,7.5,Counter,5,5,4,6,7,5,6,6,6,6,5
+Bar B Que,6,Counter,10,5,4,6,6,5,7,6,6,6,6
+Thai,9,Counter,10,2,3,4,5,5,6,6,4,6,4
+Thai,7.5,Counter,15,2,3,4,5,5,7,5,4,7,4
+Thai,6,Counter,10,4,6,5,7,5,6,6,4,7,4
+Mexican,9,Counter,5,3,4,4,7,1,5,2,4,4,4
+Mexican,7.5,Counter,10,4,3,5,6,1,6,2,4,5,4
+Mexican,6,Counter,15,3,5,4,4,1,6,3,5,5,4
+Bar B Que,9,Table,10,4,4,3,3,5,6,4,6,5,5
+Bar B Que,7.5,Table,15,4,5,3,3,6,6,4,6,6,5
+Bar B Que,6,Table,15,4,6,3,3,6,7,5,6,6,5
+Thai,9,Table,15,6,7,5,3,5,6,4,4,6,4
+Thai,7.5,Table,5,7,7,6,7,5,7,5,4,7,4
+Thai,6,Table,5,7,7,6,6,5,6,6,4,7,4
+Mexican,9,Table,15,2,3,1,5,4,7,1,5,5,3
+Mexican,7.5,Table,10,4,3,3,7,5,6,1,5,6,4
+Mexican,6,Table,5,4,4,3,6,5,7,2,5,6,4
