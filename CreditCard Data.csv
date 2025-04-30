@@ -1,4 +1,4 @@
-Profile,Visa,Discover,$10 fee,$0 fee,0% interest,no cash back,$10000 credit limit ,$1000 credit limit,Customer 1 Rating,Customer 2 Rating,Customer 3 Rating,Customer 4 Rating,Customer 5 Rating
+Profile,Brand_Visa,Brand_Discover,Fee_$10 fee,Fee_$0 fee,Interest_0% interest,Cashback_no cash back,Limit_$10000 credit limit ,Limit_$1000 credit limit,Customer 1 Rating,Customer 2 Rating,Customer 3 Rating,Customer 4 Rating,Customer 5 Rating
 1,1,0,0,1,0,0,0,0,6,6,4,5,5
 2,0,1,0,1,0,0,0,0,5,5,3,3,5
 3,0,0,1,0,0,1,1,0,2,3,2,4,1
